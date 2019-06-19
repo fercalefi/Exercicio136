@@ -1,0 +1,11 @@
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\obj\Debug\netcoreapp2.1\Abstratos136.csprojAssemblyReference.cache
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\obj\Debug\netcoreapp2.1\Abstratos136.csproj.CoreCompileInputs.cache
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\obj\Debug\netcoreapp2.1\Abstratos136.AssemblyInfoInputs.cache
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\obj\Debug\netcoreapp2.1\Abstratos136.AssemblyInfo.cs
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\bin\Debug\netcoreapp2.1\Abstratos136.deps.json
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\bin\Debug\netcoreapp2.1\Abstratos136.runtimeconfig.json
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\bin\Debug\netcoreapp2.1\Abstratos136.runtimeconfig.dev.json
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\bin\Debug\netcoreapp2.1\Abstratos136.dll
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\bin\Debug\netcoreapp2.1\Abstratos136.pdb
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\obj\Debug\netcoreapp2.1\Abstratos136.dll
+C:\Users\Calefi Notebook\source\repos\Abstratos136\Abstratos136\obj\Debug\netcoreapp2.1\Abstratos136.pdb
